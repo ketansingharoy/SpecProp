@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "specprop"
 version = "0.1.0"
-description = ""
+description = "A python package to compute and display spectral contents of signals."
 authors = ["Ketan <ketansingharoy@gmail.com>"]
 readme = "README.md"
 packages = [{include = "specprop", from = "src"}]
