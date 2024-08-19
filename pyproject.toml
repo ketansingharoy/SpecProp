@@ -5,6 +5,7 @@ description = "A python package to compute and display spectral contents of sign
 authors = ["Ketan <ketansingharoy@gmail.com>"]
 readme = "README.md"
 packages = [{include = "specprop", from = "src"}]
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.12"
